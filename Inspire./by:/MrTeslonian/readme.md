@@ -1,0 +1,1 @@
+- [New "Tesla Turbine" Design, Full Test And Build. NEW Design Starts Under Load.](https://youtu.be/j7YFd4_woxI)
