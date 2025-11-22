@@ -5,3 +5,5 @@ https://www.google.com/search?q=tesla+turbine+nozzle+design
 - https://www.researchgate.net/publication/357040171_Analysis_on_Inlet_Nozzle_Design_Geometry_of_Tesla_Turbine
 - https://athene-forschung.unibw.de/doc/147943/147943.pdf
 - 
+
+## [Numerical analysis of energy dynamics in a bladeless turbine nozzle](https://academic.oup.com/ijlct/article/doi/10.1093/ijlct/ctaf093/8200175)
