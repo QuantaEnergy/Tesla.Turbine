@@ -2,6 +2,7 @@ https://m.youtube.com/results?sp=mAEA&search_query=Jeffery+Hayes+Tesla+turbine
 
 # Conference:
 - [Jeffery Hayes - Tesla Turbines....the Next Generation, Exotic Research Conference, 1999](https://youtu.be/EDO2Qy9LZXE)
+- [Jeff Hayes, Extraordinary Technology Conference, 2009](https://youtu.be/4glu-26aOUE)
 - [Jeff Hayes on how a Tesla Turbine works](https://youtu.be/F8kE73IaU-0)
 
 video:
