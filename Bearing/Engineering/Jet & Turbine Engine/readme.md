@@ -17,3 +17,4 @@ https://evolution.skf.com/welcome-aboard/
 ## Guide:
 - [Aircraft Turbine Engine Lubrication System |General | Lubrication System| Engine](https://youtu.be/DjQmreCubQY)
 - [Jet Engine Lube System](https://youtu.be/WAia8PwMvQM)
+- [22. Gas Turbine Engines Lubrication Part 1](https://youtu.be/jKdkR3z_ccQ)
