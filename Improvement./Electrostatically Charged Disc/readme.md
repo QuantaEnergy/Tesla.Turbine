@@ -4,3 +4,6 @@ Coat the Disc with a Dielectric Surface coating so the Charge cannot deplete or 
 
 # Operating Principle
 This has the effect of "pulling" the working fluid closer to the Disc, even as it looses pressure, creating higher density at the boundary layer/disc interface. It will more efficiently transfer momentum!
+
+# Charge Recovery
+Charge can be Recovered in the Condenser Section where a "Drip Chamber" breaks the stream of water (Circuit) and Charge is recombined with an energy scavenging circuit / or Electrostatic Motor.
